@@ -1,0 +1,37 @@
+{
+  "authors": ["Pat Mächler"],
+  "dataLicense": ["CC-BY-SA"],
+  "docType": "position",
+  "docVersion": "0.0.1",
+  "languageKeys": {
+    "de": {
+      "meta":{
+        "": ""
+      }
+    }
+  },
+  "transformations": {
+    "{meta.summary}": {
+      "folder": "executive-summary"
+    },
+    "{meta.presentation}": {
+      "folder": "visual-presentation"
+    },
+    "{meta.simpleDoc}": {
+      "folder": "simple-document"
+    }
+  },
+  "slideSets":  {
+    "de": ["positionspapier"]
+  },
+  "sections": [
+    {
+      "title": "",
+      "text": "",
+      "visual": {
+
+      }
+    }
+  ]
+
+}
