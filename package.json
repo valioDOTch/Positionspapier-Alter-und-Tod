@@ -1,0 +1,21 @@
+{
+  "name": "Positionspapier-Alter-und-Tod",
+  "version": "0.0.1",
+  "description": "Ein neue Art von Positionpapier",
+  "main": "overview/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valioDOTch/Positionspapier-Alter-und-Tod.git"
+  },
+  "keywords": [
+  ],
+  "author": "Pat Mächler",
+  "license": "SEE LICENSES IN LICENSE-software and LICENSE-data",
+  "bugs": {
+    "url": "https://github.com/valioDOTch/Positionspapier-Alter-und-Tod/issues"
+  },
+  "homepage": "https://github.com/valioDOTch/Positionspapier-Alter-und-Tod/"
+}
