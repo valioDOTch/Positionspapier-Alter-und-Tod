@@ -12,7 +12,7 @@ so please judge it on this basis and nothing else.
    * Umgang beim Fuehrerschein
      * What does science say about this?
      * Quarks / Alte am Steuer - eine Gefahr? / https://www.facebook.com/QuarksundCo/videos/10156462348735564/
-   * Randum stuff
+   * Random stuff
       * Quarks & Co ; Wie alt bist Du wirklich? ; http://www.wdr.de/tv/applications/fernsehen/wissen/quarks/pdf/Q_Alter2.pdf
    * Aging as a disease?
      * Kurzgesagt ; Why Age? Should We End Aging Forever? ; https://www.youtube.com/watch?v=GoJsr4IwCm4
