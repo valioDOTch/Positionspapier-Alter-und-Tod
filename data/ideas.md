@@ -3,12 +3,12 @@ it's more brainstorming, not a selected version of things that need to end up in
 so please judge it on this basis and nothing else.
 
 
-=> bei anderen Piratenparteien L?sungen ansehen
+=> bei anderen Piratenparteien Loesungen ansehen
 
 * Death
   * ...wir werden alle irgendwann sterben, egal was wir gerne glauben... ;-)
 * Aging
-   * Umgang beim F?hrerschein
+   * Umgang beim Fuehrerschein
      * What does science say about this?
      * Quarks / Alte am Steuer - eine Gefahr? / https://www.facebook.com/QuarksundCo/videos/10156462348735564/
    * Randum stuff
@@ -17,7 +17,7 @@ so please judge it on this basis and nothing else.
      * Kurzgesagt ; Why Age? Should We End Aging Forever? ; https://www.youtube.com/watch?v=GoJsr4IwCm4
      * CGP Grey ; Why Die? ; https://www.youtube.com/watch?v=C25qzDhGLx8
    * Demenz
-     * Quarks / Ein Stadtteil f?r Menschen mit Demenz / http://www1.wdr.de/fernsehen/quarks/sendungen/demenz-stadtteil-fuer-menschen-mit-demenz100.html
+     * Quarks / Ein Stadtteil fuer Menschen mit Demenz / http://www1.wdr.de/fernsehen/quarks/sendungen/demenz-stadtteil-fuer-menschen-mit-demenz100.html
 * Needs of old people
    * What does science say about this?
    * Some related links
@@ -29,9 +29,9 @@ so please judge it on this basis and nothing else.
       * siehe NDR-Beitrag oben
       * was ist inakzeptabel?
 * Altersstruktur der Bev?lkerung
-   * Wie sollen anstehende Probleme gel?st werden? z.B. bez?glich Pensionskassen? AHV?
+   * Wie sollen anstehende Probleme geloest werden? z.B. bezueglich Pensionskassen? AHV?
       * ggf. BGE
-   * Zusammenh?nge mit der Automatisierung
+   * Zusammenhaenge mit der Automatisierung
 * Suicide
    * Suicide as psychological topic
    * Attempts to prevent suicide by
